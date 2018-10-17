@@ -18,7 +18,10 @@ body, html {
   background-image: url("../img/head-bg.png");
   background-position: cover;
   height: 650px;
-  margin: 0 auto; }
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
 .menu__top {
   padding-top: 40px;
