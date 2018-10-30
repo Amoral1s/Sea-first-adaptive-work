@@ -17,10 +17,8 @@ body, html {
 .head__container {
   background-image: url("../img/head-bg.png");
   background-position: cover;
-  height: 650px;
   margin: 0 auto;
   background-repeat: no-repeat;
-  background-position: center;
   background-size: 100%;
 }
 
